@@ -1,6 +1,6 @@
 name: PM-PluginTemplate
-main: space\yurisi\pluginname
-author: yurisi
+main: space\greenpeacekt\pluginname
+author: greenpeacekt
 # depend:
 #   - EconomyAPI
 version: 1.0.0

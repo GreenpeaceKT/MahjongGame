@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace space\yurisi\pluginname;
+namespace space\greenpeacekt\pluginname;
 
 use pocketmine\plugin\PluginBase;
 

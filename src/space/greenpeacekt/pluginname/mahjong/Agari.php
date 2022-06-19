@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace space\yurisi\pluginname\mahjong;
+namespace space\greenpeacekt\pluginname\mahjong;
 
 class Agari {
   
