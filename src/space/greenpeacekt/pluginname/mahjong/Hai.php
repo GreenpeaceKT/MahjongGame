@@ -42,12 +42,12 @@ class Hai {
         return (int)'5'+ (string)$this->value;
 
       default:
-        return
+        return;
         break;
     }
   }
   public function equals($hai){
-    return $hai->kind == $this->kind && $hai->value == $this->value
+    return $hai->kind == $this->kind && $hai->value == $this->value;
   }
 }
 
